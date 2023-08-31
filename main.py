@@ -1,4 +1,3 @@
-
 from machine import I2C,Pin
 import time
 i2c = I2C(1)
